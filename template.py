@@ -28,7 +28,7 @@ list_of_files=[
     "setup.config",
     "pyproject.toml",
     "tox.ini",
-    "research/trials.ipnyb"
+    "research/trials.ipynb"
 ]
 
 for filepath in list_of_files:
