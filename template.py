@@ -18,7 +18,7 @@ list_of_files=[
     "tests/__init__.py",
     "tests/integration/__init__.py",
     "tests/unit/__init__.py",
-    "configs/congig.yaml",
+    "configs/config.yaml",
     "dvc.yaml",
     "params.yaml",
     "init_setup.sh",
