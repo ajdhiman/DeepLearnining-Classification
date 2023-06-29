@@ -155,7 +155,8 @@ cython_debug/
 artifacts
 artifacts/
 
-
+.dvc
+.dvc/
 # PyCharm
 
 
